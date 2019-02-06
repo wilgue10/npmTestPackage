@@ -1,6 +1,6 @@
 {
   "name": "test-npm-hello",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -44,5 +44,18 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.6"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilgue10/npmTestPackage.git"
+  },
+  "author": "Wilmer Guevara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilgue10/npmTestPackage/issues"
+  },
+  "homepage": "https://github.com/wilgue10/npmTestPackage#readme",
+  "keywords": []
 }
